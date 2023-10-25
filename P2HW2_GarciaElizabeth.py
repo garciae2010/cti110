@@ -24,10 +24,10 @@ grades.append(module6)
 avg = (65.5+88+78.5+90+61+92)/6
 
 print('--------------Results----------')
-print('Lowest Grade:',module1)
-print('Highest Grade:',module6)
-print('Sum of Grades: ',sum(grades))
-print(f'Average: ', (avg:.2f))
+print('Lowest Grade:',  module1)
+print('Highest Grade:', module6)
+print('Sum of Grades:',sum(grades))
+print(f'Average:       {avg:.2f}')
 
 
 
